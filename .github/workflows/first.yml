@@ -16,6 +16,8 @@ jobs:
 
       - name: install nodejs
         uses: actions/setup-node@v1
+        with:
+          node-version: 'v12.22.1'
 
       - name: configue gitbook
         run: |
@@ -27,7 +29,7 @@ jobs:
         run: |
 #          book sm
           gitbook build
-          cp SUMMARY.md _book
+#          cp SUMMARY.md _book
 
       - name: push _book to branch gh-pages
         env:

@@ -1,10 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* [监控维度](metrics/README.md)
+* [监控维度](metrics/root.md)
     * [监控指标](metrics/index.md)
-* [业务监控](biz/README.md)
-* [链路监控](trace/README.md)
+* [业务监控](biz/root.md)
+* [链路监控](trace/root.md)
 * [应用监控](app/root.md)
     * [健康检查](app/health.md)
     * [jvm监控](app/jvm.md)

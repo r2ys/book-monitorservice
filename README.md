@@ -6,9 +6,9 @@
 
 本文从以下出发点入手，旨在针对所有业务系统、中台服务、基础服务等制定统一的监控告警标准。
 
-* [监控维度](metrics/README.md)
-* [业务监控](biz/README.md)
-* [链路监控](trace/README.md)
+* [监控维度](metrics/root.md)
+* [业务监控](biz/root.md)
+* [链路监控](trace/root.md)
 * [应用监控](app/root.md)
 * [容器和主机监控](hardware/root.md)
 * [统一监控告警系统设计](architect/root.md)

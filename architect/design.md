@@ -31,6 +31,5 @@
 
 
 
-### 大数据运维管理平台功能架构参考图
 
-![](https://raw.githubusercontent.com/r2ys/upic_rep/main/uPic/iShot2021-06-10%2011.19.31.png)
+

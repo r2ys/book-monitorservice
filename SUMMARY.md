@@ -14,4 +14,5 @@
     * [系统目标](architect/goal.md)
     * [可选架构](architect/design.md)
     * [APM应用性能管理](architect/apm.md)
+    * [告警配置](architect/alarm.md)
 

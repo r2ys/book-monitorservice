@@ -1,0 +1,32 @@
+{
+  "title" : "统一监控告警方案",
+  "author" : "r2ys",
+  "language" : "zh-hans",
+  "plugins":[
+    "github",
+    "-lunr",
+    "-search",
+    "search-pro",
+    "expandable-chapters-small",
+    "back-to-top-button",
+    "chapter-fold",
+    "splitter",
+    "-sharing",
+    "tbfed-pagefooter",
+    "simple-page-toc",
+    "page-toc-button",
+    "pageview-count",
+    "popup",
+    "lightbox"
+  ],
+  "pluginsConfig": {
+    "tbfed-pagefooter": {
+      "copyright":"Copyright doc.r2ys.life 2021",
+      "modify_label": "文档修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "github": {
+      "url": "https://github.com/r2ys/book-monitorservice"
+    }
+  }
+}

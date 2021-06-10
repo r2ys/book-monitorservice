@@ -30,6 +30,3 @@
 告警模块是由alertmanager和alertwebhook组成的，alertmanager是Prometheus监控组件中一个开源的告警管理服务，它可以对告警信息进行分组、静默和抑制等操作。alertmanager负责将告警信息转发，可以对接短信，邮箱，webhook等。alertwebhook是自研的一个告警信息管理服务，它会持久化所有告警信息，更新告警状态。
 
 
-
-
-

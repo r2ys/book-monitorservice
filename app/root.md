@@ -28,7 +28,7 @@
 
 ##### 拓扑监控参考图
 
-![](/Users/r2yshu/Desktop/图片.png)
+![](https://raw.githubusercontent.com/r2ys/upic_rep/main/uPic/iShot2021-06-10%2014.13.26.png)
 
 ##### 请求分析参考图
 

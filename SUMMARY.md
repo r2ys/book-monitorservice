@@ -8,6 +8,7 @@
 * [应用监控](app/root.md)
     * [健康检查](app/health.md)
     * [jvm监控](app/jvm.md)
+    * [日志监控](app/log.md)
 * [容器和主机监控](hardware/root.md)
 * [统一监控告警系统设计](architect/root.md)
     * [框架选型](architect/frame.md)

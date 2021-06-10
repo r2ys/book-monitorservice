@@ -16,4 +16,7 @@
     * [可选架构](architect/design.md)
     * [APM应用性能管理](architect/apm.md)
     * [告警配置](architect/alarm.md)
+    * [数据可视化](architect/display.md)
+    * [日志管理](architect/log.md)
+    * [运维平台产品化](architect/managesystem.md)
 

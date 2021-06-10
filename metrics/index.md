@@ -18,7 +18,22 @@
     * 前端页面：响应时间、加载时间
     * 性能：响应时间、成功/失败数
     * 健康度：告警量
-* 
+
+#### 监控信息汇总示意图
+
+![](https://raw.githubusercontent.com/r2ys/upic_rep/main/uPic/iShot2021-06-10%2011.50.33.png)
+
+### 监控维度的分类参考图
+
+![](https://raw.githubusercontent.com/r2ys/upic_rep/main/uPic/iShot2021-06-10%2011.42.33.png)
+
+### 指标管理
+
+如何建立完善、全面、直观的指标体系。指标拆解的维度和粒度？
+
+从指标的定位上区分：
+
+![](https://raw.githubusercontent.com/r2ys/upic_rep/main/uPic/iShot2021-06-10%2011.44.09.png)
 
 ### 指标类型参考示例
 

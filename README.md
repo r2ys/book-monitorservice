@@ -75,3 +75,12 @@
 
 [阿里云应用实时监控服务ARMS产品文档](https://helpcdn.aliyun.com/product/34364.html)
 
+[Micrometer 快速入门](https://www.cnblogs.com/cjsblog/p/11556029.html)
+
+[Spring Boot 使用 Micrometer](https://cloud.tencent.com/developer/article/1508319)
+
+[Prometheus 监控埋点](https://www.dazhuanlan.com/2019/12/07/5deb3278abd56/)
+
+[Prometheus](https://prometheus.io/download/)
+
+[Prometheus中文文档](https://prometheus.fuckcloudnative.io/di-san-zhang-prometheus/di-2-jie-an-zhuang/gettingstarted)
